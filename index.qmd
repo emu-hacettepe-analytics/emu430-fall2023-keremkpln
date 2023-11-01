@@ -3,7 +3,7 @@ title: "Welcome to My Analytics Lab"
 sidebar: false 
 ---
 
-Hello! My name is KeremKaplan.
+Hello! My name is Kerem Kaplan.
 
 This is my personal webpage.
 
