@@ -46,7 +46,7 @@ format:
     toc: true
     toc-location: left
     theme: 
-      light: morph 
+      light: yeti 
       dark: darkly
     css: styles.css
 
