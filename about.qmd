@@ -26,3 +26,7 @@ R, Quarto, Git, Python, PowerBI, Excel, SQL, Minitab, MS Office
 # Hobbies
 
 Table Tennis/Football/NBA/Movies
+
+# Resume
+
+Here is my CV: [keremkaplan.pdf](https://drive.google.com/drive/u/0/my-drive)

@@ -4,12 +4,12 @@ title: "Assignment 1"
 
 # Assignment 1
 
-```{r}
-1 + 1
-```
+My first assignment has three parts.
 
-My first assignment has two parts.
+## (a) 
 
-## (a)
+## (b) 
 
-## (b)
+There are some fundamental differences between the R and Python programming languages.
+
+## (c)
