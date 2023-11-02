@@ -3,6 +3,8 @@ title: "About Me"
 sidebar: false 
 ---
 
+I am a fourth-year student in the Department of Industrial Engineering at Hacettepe University. In addition to my courses, I have been actively involved in student organizations and participated various positions. In my final year, I am working as a junior engineer in the Production Planning Department at the Kırıkkale Refinery of Turkey's Petroleum Refineries (TÜPRAŞ). Thanks to this experience, I am learning production planning methods and optimization calculations while also having the opportunity to work on data science.
+
 # Education
 
 -   B.S., Industrial Engineering, Hacettepe University, Turkey, 2019 - ongoing.
@@ -29,4 +31,4 @@ Table Tennis/Football/NBA/Movies
 
 # Resume
 
-Here is my CV: [keremkaplan.pdf](https://drive.google.com/drive/u/0/my-drive)
+Here is my CV: [keremkaplan.pdf](https://drive.google.com/file/d/1NW4j4U0wM2NXTUaZZPCtCLU8GtR_dgMB/view?usp=sharing)
