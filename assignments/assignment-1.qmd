@@ -8,8 +8,37 @@ My first assignment has three parts.
 
 ## (a) 
 
+I want to write about this video that I watched on YouTube: [The R Language The Good The Bad & The Ugly • John Cook • GOTO 2012](https://www.youtube.com/watch?v=6S9r_YbqHy8).
+
+In a brief summary of the video, I can say that it's primarily an in-depth and explanatory conference presentation about R. At the beginning of the conference, a particular example caught my attention, where the speaker emphasized, 'You don't have a soul, doctor, you have a soul.' Taking inspiration from this analogy, the speaker concluded that R is not just a language; R has a language. The conferance proceeded to discuss how R is a highly useful tool in data analytics, supported by various examples. Another part of the presentation that I found appealing was an example from Francois Pinard: 'Using R is a bit akin to smoking. The beginning is difficult; one may get headaches few times. But in the long run, it becomes pleasurable and even addictive.' Additionally, the speaker compared R with other programming languages, highlighting the differences. In the end, I can say it was a useful and attention-grabbing conference presentation.
+
 ## (b) 
 
 There are some fundamental differences between the R and Python programming languages.
 
-## (c)
+**1)** R uses 1 based indexing, while Python uses 0 based indexing. It means that in R, first element of a vector is starting with index 1; in Python, it starts with index 0.
+
+```{r}
+school_days <- c("Monday","Tuesday","Wednesday","Thursday","Data Analytics")
+first_index <- school_days[1]
+first_index
+```
+
+```{python}
+work_days = ["Monday","Tuesday","Wednesday","Thursday","Data Analytics"]
+first_index_ = work_days[0]
+print(first_index_)
+```
+
+## (c) 
+
+```{r}
+install.packages(dslabs)
+library(dslabs)
+data("na_example")
+na_example
+sum(is.na(na_example))
+delete_na <- ifelse(is.na(na_example), 0, na_example)
+delete_na
+sum(is.na(delete_na))
+```
