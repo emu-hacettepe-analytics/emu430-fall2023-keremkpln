@@ -30,7 +30,17 @@ first_index_ = work_days[0]
 print(first_index_)
 ```
 
-**2)** There are
+**2)** In R, we can create a variable using the "\<-" operator, while in Python, we can use the "=" operator. Additionally, in R, we create a vector using the c( ) function, and in Python, we create a list using square brackets \[ \].
+
+```{r}
+students_in_class <- c("Kerem","Beyza","Hatice","Melike")
+students_in_class
+```
+
+```{'''{python}
+Hends_members = ["Kerem","Melike","Nazlı","Ahmet Safa"]
+print(Hends_members)
+```
 
 ## (c)
 
