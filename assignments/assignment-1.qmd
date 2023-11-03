@@ -37,7 +37,7 @@ students_in_class <- c("Kerem","Beyza","Hatice","Melike")
 students_in_class
 ```
 
-```{'''{python}
+```{python}
 Hends_members = ["Kerem","Melike","Nazlı","Ahmet Safa"]
 print(Hends_members)
 ```
