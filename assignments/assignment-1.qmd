@@ -42,6 +42,20 @@ Hends_members = ["Kerem","Melike","Nazlı","Ahmet Safa"]
 print(Hends_members)
 ```
 
+**3)** In R, we can use the apply, supply, lapply syntaxs instead of For, while in Python, we use the For element in iterable syntax. Python uses the "range" function to create a sequence of numbers, whereas in R, you can use a colon ":" to define a sequence.
+
+```{r}
+numbers <- lapply(1:3,function(i){ 
+  print(i)})
+```
+
+```{python}
+for i in range (1,4):
+  print(i)
+```
+
+(Note: I used a Google search for the usage of the "lapply" function.)
+
 ## (c)
 
 ```{r}
