@@ -28,7 +28,11 @@ together_url <- c(url_1,url_2)
 Additionally, I've loaded the necessary packages.
 
 ```{r}
+knitr::opts_chunk$set(warning = FALSE)
+library(ggplot2) #for visualization
+library(ggthemes) 
 library(tidyverse) # for everything :)
 library(rvest) # for HTML scraping
 library(stringr) # for string processing
+
 ```
