@@ -22,9 +22,13 @@ url_2 <- "https://m.imdb.com/search/title/?title_type=feature&release_date=0001-
 I merged these two URL links into a single vector.
 
 ```{r}
-
+together_url <- c(url_1,url_2)
 ```
 
+Additionally, I've loaded the necessary packages.
+
 ```{r}
-1 + 1
+library(tidyverse) # for everything :)
+library(rvest) # for HTML scraping
+library(stringr) # for string processing
 ```
