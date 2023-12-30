@@ -18,7 +18,7 @@
     "href": "assignments/assignment-2.html",
     "title": "Assignment 2",
     "section": "",
-    "text": "Assignment 2\nIn my second assignment has 4 parts.\n1)\nFirstly I created url links. The variable url_1 displays films from 2010 to the present, while the variable url_2 lists films up to the year 2010.\n\nurl_1 &lt;- \"https://m.imdb.com/search/title/?title_type=feature&release_date=2010-01-01,2023-12-31&num_votes=2500,&country_of_origin=TR&count=250\"\nurl_2 &lt;- \"https://m.imdb.com/search/title/?title_type=feature&release_date=0001-01-01,2009-12-31&num_votes=2500,&country_of_origin=TR&count=250\"\n\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\n Back to top"
+    "text": "Assignment 2\nMy second assignment has 4 parts.\n1)\nFirstly I created url links. The variable url_1 displays films from 2010 to the present, while the variable url_2 lists films up to the year 2010.\n\n\nCode\nurl_1 &lt;- \"https://m.imdb.com/search/title/?title_type=feature&release_date=2010-01-01,2023-12-31&num_votes=2500,&country_of_origin=TR&count=250\"\nurl_2 &lt;- \"https://m.imdb.com/search/title/?title_type=feature&release_date=0001-01-01,2009-12-31&num_votes=2500,&country_of_origin=TR&count=250\"\n\n\nI merged these two URL links into a single vector.\n\n\nCode\n1 + 1\n\n\n[1] 2\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html",

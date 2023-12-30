@@ -1,13 +1,14 @@
 ---
 title: "Assignment 2"
-html:
+format: 
+  html:
     code-fold: true
     code-summary: "Show the code"
 ---
 
 # Assignment 2
 
-In my second assignment has 4 parts.
+My second assignment has 4 parts.
 
 **1)**
 
@@ -16,6 +17,12 @@ Firstly I created url links. The variable url_1 displays films from 2010 to the 
 ```{r}
 url_1 <- "https://m.imdb.com/search/title/?title_type=feature&release_date=2010-01-01,2023-12-31&num_votes=2500,&country_of_origin=TR&count=250"
 url_2 <- "https://m.imdb.com/search/title/?title_type=feature&release_date=0001-01-01,2009-12-31&num_votes=2500,&country_of_origin=TR&count=250"
+```
+
+I merged these two URL links into a single vector.
+
+```{r}
+
 ```
 
 ```{r}
